@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Viewer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="toogle_flash">Turn on Flash</string>
+    <string name="pad">PadID</string>
+    <string name="input_text">Please input your PadID.</string>
+    <string name="submit">Submit</string>
+    <string name="url_etherpad_lite">http://203.151.94.63:9001/p/r.</string>
+    <string name="title_activity_intent_web">intentWebActivity</string>
+    <string name="title_activity_intent_to_web">intentToWeb</string>
+    <string name="sponsor">Sponsor by :</string>
+
+</resources>
